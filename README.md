@@ -1,0 +1,2 @@
+# tallerSo
+Ejercicios propuestos
